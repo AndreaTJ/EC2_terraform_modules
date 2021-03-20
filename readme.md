@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 Make sure that the terminal is in the directory where  `main.tf`  is located:
 
+=======
+>>>>>>> 6bb2ba0eae2bcf97a01ef33445112ab755f94f24
 -   Run the following command for Terraform to get any required dependencies based on the cloud provider being used:  
     `terraform init`
     
